@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="78b29e9f-51f2-42d7-a55f-0fc26aa23d37" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Employee_Wage/Employee_Wage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Employee_Wage/Employee_Wage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Employee_Wage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee_Wage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +33,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="UC_5-Wage_for_month" />
+                    <option name="lastUsedInstant" value="1671851922" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="UC_4-Daily_wage_using_switch_case" />
                     <option name="lastUsedInstant" value="1671851418" />
                   </RecentBranch>
@@ -46,10 +51,6 @@
                   <RecentBranch>
                     <option name="branchName" value="UC1-Employee_present" />
                     <option name="lastUsedInstant" value="1671825647" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1671825646" />
                   </RecentBranch>
                 </list>
               </option>
