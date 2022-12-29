@@ -36,5 +36,5 @@ public class Employee_Wage {
                     public static <EmployeeWage> void main(String[] args) {
                         Employee_Wage obj = new Employee_Wage();
                         obj.TotalWage();
-                    }
+            }
 }
